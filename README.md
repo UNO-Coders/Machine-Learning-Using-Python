@@ -46,7 +46,7 @@ The purpose of this project is to have a collection of major ML Topics that can 
 
 ## Contributing Members
 
-**Team Leads (Contacts) : [Bachittarjeet Singh](https://github.com/bachittarjeet)(@bachittarjeet)**
+**Project Lead (Contact) : [Bachittarjeet Singh](https://github.com/bachittarjeet)(@bachittarjeet)**
 
 #### Other Members:
 
