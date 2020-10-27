@@ -1,15 +1,14 @@
 # Machine Learning Using Python
 This project is a part of the Machine learning journey for any beginner. 
 
-#### -- Project Status: [Active]
+#### -- Project Status: [Active] --
 
 ## Project Intro/Objective
 The purpose of this project is to have a collection of major ML Topics that can be access on github for everyone
 
 ### Partner
-* Banglore Computer Organization
-* http://www.banglorecomputereducation.com/
-* Partner contact: [Rajesh K. Bansal], [https://www.facebook.com/Banglore-Computer-Education-236546743050307/?ref=py_c]
+* [Banglore Computer Organization](http://www.banglorecomputereducation.com/)
+* Partner contact: [Rajesh K. Bansal](https://www.facebook.com/Banglore-Computer-Education-236546743050307/?ref=py_c)
 
 ### Methods Used
 * Basic Python
